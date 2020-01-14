@@ -18,6 +18,7 @@ public class Student1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int lol=0;
 
         
     }
