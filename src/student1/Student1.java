@@ -7,7 +7,7 @@ package student1;
 
 /**
  *
- * @author gurjo
+ * @author gurjodate
  */
 public class Student1 {
 
